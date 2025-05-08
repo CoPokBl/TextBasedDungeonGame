@@ -22,8 +22,8 @@ void Cat::Use() {
 	purring = !purring;
 
 	if (purring) {
-		std::cout << "You pat the cat, its now purring.\n";
+		std::cout << "You pat the cat, it's now purring.\n";
 	} else {
-		std::cout << "You pat the cat, its no longer purring.\n";
+		std::cout << "You pat the cat, it's no longer purring.\n";
 	}
 }
